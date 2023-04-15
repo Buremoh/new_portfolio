@@ -215,7 +215,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      demo_link: "https://spicytreats.netlify.app",
+      demo_link: "gpt-3site.netlify.app",
       image: gpt3,
       source_code_link: "https://github.com/",
     },
