@@ -23,6 +23,10 @@ import {
     logiciel,
     coders,
     gpt3,
+    bjs,
+    fred,
+    lawrence,
+    daniel,
   } from "../assets";
   
   export const navLinks = [
@@ -176,7 +180,7 @@ import {
       name: "Frederick Amoako-Atta",
       designation: "Product Designer",
       company: "Freelance",
-      image: "https://lh3.googleusercontent.com/7JFvlzYHXYdzPgKMy-0YcfUC0IOq4q1tH8Uk3EzkylKRSzeJuYEWlMUZKL5aoxqLbBoBV8lPnOrGm4er9o7r15T7w95_bbmEFBQ_oigp3mM",
+      image: fred,
     },
     {
       testimonial:
@@ -184,7 +188,7 @@ import {
       name: "Bolaji Adeniji",
       designation: "Software Engineer",
       company: "Allianz Life Ghana Ltd",
-      image: "https://lh3.googleusercontent.com/RR1P_D_3IHANyLvaznaW2R1Nihw7YCjz1IRWVXMFZYnskm_ID9bfSxgOD4gvBS2nWbJjS0l1PY-5Afr510sYXpJftM2A4X55j7pBI_NP1AWH",
+      image: lawrence,
     },
     {
       testimonial:
@@ -192,7 +196,7 @@ import {
       name: "Daniel Kwarteng",
       designation: "Project Manager",
       company: "IT Consortium Ghana",
-      image: "https://lh3.googleusercontent.com/w37SPw84veg_I4vYIHZH217MfByJAEgkDUebFOITTveoMHcg3CXUxRRECbJ5n8FTAvAl9yLeOI_LU6BzblT6kasxyai3pVlfwbTXWnW_ARBDdA",
+      image: daniel,
     },
   ];
   
@@ -207,7 +211,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "CSS",
+          name: "css",
           color: "green-text-gradient",
         },
         {
@@ -220,25 +224,25 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "BJ's Tube",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "This is a YouTube App clone which allows users to search for videos and watch videos.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "rapidapi",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "css",
           color: "pink-text-gradient",
         },
       ],
-      demo_link: "https://pixels07.netlify.app",
-      image: jobit,
+      demo_link: "https://bjs-tube.netlify.app",
+      image: bjs,
       source_code_link: "https://github.com/",
     },
     {

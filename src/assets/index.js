@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -33,7 +33,11 @@ import itc from "./company/itc.png";
 import rancard from "./company/rancard.png";
 import logiciel from "./company/logiciel.png";
 import coders from "./company/coders.png";
-import gpt3 from "./company/gpt3.png"
+import gpt3 from "./company/gpt3.png";
+import bjs from "./bjs.png";
+import fred from "./fred.png";
+import lawrence from "./lawrence.png";
+import daniel from "./daniel.png";
 
 
 export {
@@ -70,4 +74,8 @@ export {
   logiciel,
   coders,
   gpt3,
+  bjs,
+  fred,
+  lawrence,
+  daniel,
 };
