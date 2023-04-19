@@ -128,7 +128,7 @@ import {
       points: [
         "Developed detailed project plans to track progress.",
         "Improved engineering delivery times by 20% by enhancing the methodologies with tested best practice.",
-        "Managed the planning and execution of projects to meet the clients' expectations.",
+        "Managed the planning and execution of projects to meet clients' expectations.",
         "Ensured projects were completed within the estimated time and budget.",
       ],
     },
@@ -137,7 +137,7 @@ import {
       company_name: "Coders Who Travel",
       icon: coders,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "January 2021 - February 2022",
       points: [
         "Developed and maintained web applications using React.js and other related technologies.",
         "Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -150,7 +150,7 @@ import {
       company_name: "Logiciel Ghana Limited",
       icon: logiciel,
       iconBg: "#383E56",
-      date: "Jan 2021 - Dec 2021",
+      date: "January 2021 - December 2021",
       points: [
         "Developed and maintained web applications using React.js and other related technologies.",
         "Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
