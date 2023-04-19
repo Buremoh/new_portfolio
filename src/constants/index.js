@@ -24,7 +24,6 @@ import {
     coders,
     gpt3,
     bjs,
-    fred,
     lawrence,
     daniel,
   } from "../assets";
@@ -180,7 +179,7 @@ import {
       name: "Frederick Amoako-Atta",
       designation: "Product Designer",
       company: "Freelance",
-      image: fred,
+      image: "https://lh3.googleusercontent.com/xSvqEwRsVYZFTGvEFQVTejqFrGnIiD_0Btf_ZAMbTSweAU9VvmEy9Q0Ua-J2wDZUevnBy2UloHvcCqo50s7HnDvrDrRtjf1dXEx4LLnEFw",
     },
     {
       testimonial:

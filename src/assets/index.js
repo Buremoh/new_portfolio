@@ -35,7 +35,6 @@ import logiciel from "./company/logiciel.png";
 import coders from "./company/coders.png";
 import gpt3 from "./company/gpt3.png";
 import bjs from "./bjs.png";
-import fred from "./fred.png";
 import lawrence from "./lawrence.png";
 import daniel from "./daniel.png";
 
@@ -75,7 +74,6 @@ export {
   coders,
   gpt3,
   bjs,
-  fred,
   lawrence,
   daniel,
 };
