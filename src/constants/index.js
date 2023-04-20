@@ -26,6 +26,7 @@ import {
     bjs,
     lawrence,
     daniel,
+    gym,
   } from "../assets";
   
   export const navLinks = [
@@ -245,25 +246,25 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Gym Fit",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A fitness exercise app that allows users to search for various exercises with a few additional suggestions.",
       tags: [
         {
-          name: "nextjs",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "rapidapi",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "materialui",
           color: "pink-text-gradient",
         },
       ],
-      demo_link: "https://recipe07.netlify.app",
-      image: tripguide,
+      demo_link: "https://gym-king.netlify.app",
+      image: gym,
       source_code_link: "https://github.com/",
     },
   ];

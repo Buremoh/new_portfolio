@@ -37,6 +37,7 @@ import gpt3 from "./company/gpt3.png";
 import bjs from "./bjs.png";
 import lawrence from "./lawrence.png";
 import daniel from "./daniel.png";
+import gym from "./gym.png";
 
 
 export {
@@ -76,4 +77,5 @@ export {
   bjs,
   lawrence,
   daniel,
+  gym,
 };
