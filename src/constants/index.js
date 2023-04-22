@@ -27,6 +27,7 @@ import {
     lawrence,
     daniel,
     gym,
+    sumz,
   } from "../assets";
   
   export const navLinks = [
@@ -202,26 +203,26 @@ import {
   
   const projects = [
     {
-      name: "GPT-3 OpenAI Site",
+      name: "Sumz OpenAI",
       description:
-        "A fully responsive modern UI/UX website in React JS.",
+        "An ariticle summary site, powered by OpenAI GPT-4",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwind css",
           color: "green-text-gradient",
         },
         {
-          name: "figma",
+          name: "rapidapi",
           color: "pink-text-gradient",
         },
       ],
-      demo_link: "https://gpt-3site.netlify.app",
+      demo_link: "https://sumzai.netlify.app/",
       image: gpt3,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Buremoh/sumz.git",
     },
     {
       name: "BJ's Tube",
@@ -243,7 +244,7 @@ import {
       ],
       demo_link: "https://bjs-tube.netlify.app",
       image: bjs,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Buremoh/bj-s_tube.git",
     },
     {
       name: "Gym Fit",
@@ -265,7 +266,7 @@ import {
       ],
       demo_link: "https://gym-king.netlify.app",
       image: gym,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Buremoh/gym-fit.git",
     },
   ];
   

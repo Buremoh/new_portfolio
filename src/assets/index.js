@@ -38,6 +38,7 @@ import bjs from "./bjs.png";
 import lawrence from "./lawrence.png";
 import daniel from "./daniel.png";
 import gym from "./gym.png";
+import sumz from "./sumz.png";
 
 
 export {
@@ -78,4 +79,5 @@ export {
   lawrence,
   daniel,
   gym,
+  sumz,
 };
