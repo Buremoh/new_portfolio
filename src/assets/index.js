@@ -76,6 +76,7 @@ export {
   coders,
   gpt3,
   bjs,
+  fred,
   lawrence,
   daniel,
   gym,

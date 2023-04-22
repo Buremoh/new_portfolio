@@ -21,6 +21,7 @@ import {
     logiciel,
     coders,
     bjs,
+    fred,
     lawrence,
     daniel,
     gym,
@@ -178,7 +179,7 @@ import {
       name: "Frederick Amoako-Atta",
       designation: "Product Designer",
       company: "Freelance",
-      image: "https://lh3.googleusercontent.com/xSvqEwRsVYZFTGvEFQVTejqFrGnIiD_0Btf_ZAMbTSweAU9VvmEy9Q0Ua-J2wDZUevnBy2UloHvcCqo50s7HnDvrDrRtjf1dXEx4LLnEFw",
+      image: fred,
     },
     {
       testimonial:
