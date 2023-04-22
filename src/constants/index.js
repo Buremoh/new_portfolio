@@ -202,7 +202,7 @@ import {
     {
       name: "Sumz OpenAI",
       description:
-        "An ariticle summary site, powered by OpenAI GPT-4",
+        "An ariticle summary site, powered by OpenAI GPT-4.",
       tags: [
         {
           name: "react",
@@ -246,7 +246,7 @@ import {
     {
       name: "Gym Fit",
       description:
-        "A fitness exercise app that allows users to search for various exercises with a few additional suggestions.",
+        "A fitness exercise app that allows users to search for various exercises.",
       tags: [
         {
           name: "React",
