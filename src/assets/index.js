@@ -20,22 +20,13 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import itc from "./company/itc.png";
 import rancard from "./company/rancard.png";
 import logiciel from "./company/logiciel.png";
 import coders from "./company/coders.png";
 import gpt3 from "./company/gpt3.png";
 import bjs from "./bjs.png";
-import fred from "./fred.png";
+import fred from "./fred.jpg";
 import lawrence from "./lawrence.png";
 import daniel from "./daniel.png";
 import gym from "./gym.png";
@@ -64,13 +55,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
   itc,
   rancard,
   logiciel,
