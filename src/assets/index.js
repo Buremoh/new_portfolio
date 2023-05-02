@@ -30,7 +30,7 @@ import fred from "./fred.jpg";
 import lawrence from "./lawrence.png";
 import daniel from "./daniel.png";
 import gym from "./gym.png";
-import sumz from "./sumz.png";
+import tacos from "./tacos.png";
 
 
 export {
@@ -65,5 +65,5 @@ export {
   lawrence,
   daniel,
   gym,
-  sumz,
+  tacos,
 };

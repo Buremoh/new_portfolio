@@ -25,7 +25,7 @@ import {
     lawrence,
     daniel,
     gym,
-    sumz,
+    tacos,
   } from "../assets";
   
   export const navLinks = [
@@ -201,16 +201,16 @@ import {
   
   const projects = [
     {
-      name: "Sumz OpenAI",
+      name: "Tacos",
       description:
-        "An ariticle summary site, powered by OpenAI GPT-4.",
+        "A modern fine dining restaurant website with ReactJS.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "tailwind css",
+          name: "css",
           color: "green-text-gradient",
         },
         {
@@ -218,9 +218,9 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      demo_link: "https://sumzai.netlify.app/",
-      image: sumz,
-      source_code_link: "https://github.com/Buremoh/sumz.git",
+      demo_link: "https://tacos07.netlify.app",
+      image: tacos,
+      source_code_link: "https://github.com/Buremoh/tacos.git",
     },
     {
       name: "BJ's Tube",
