@@ -26,6 +26,7 @@ import {
     daniel,
     gym,
     tacos,
+    gericht,
   } from "../assets";
   
   export const navLinks = [
@@ -201,9 +202,9 @@ import {
   
   const projects = [
     {
-      name: "Tacos",
+      name: "Gericht",
       description:
-        "A modern fine dining restaurant website with ReactJS.",
+        "The landing page of a modern fine dining restaurant website with ReactJS.",
       tags: [
         {
           name: "react",
@@ -214,13 +215,13 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "rapidapi",
+          name: "figma",
           color: "pink-text-gradient",
         },
       ],
-      demo_link: "https://tacos07.netlify.app",
-      image: tacos,
-      source_code_link: "https://github.com/Buremoh/tacos.git",
+      demo_link: "https://gericht06.netlify.app",
+      image: gericht,
+      source_code_link: "https://github.com/Buremoh/gericht-restaurant.git",
     },
     {
       name: "BJ's Tube",
@@ -243,6 +244,28 @@ import {
       demo_link: "https://bjs-tube.netlify.app",
       image: bjs,
       source_code_link: "https://github.com/Buremoh/bj-s_tube.git",
+    },
+    {
+      name: "Tacos",
+      description:
+        "A modern fine dining restaurant website with ReactJS.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "css",
+          color: "green-text-gradient",
+        },
+        {
+          name: "rapidapi",
+          color: "pink-text-gradient",
+        },
+      ],
+      demo_link: "https://tacos07.netlify.app",
+      image: tacos,
+      source_code_link: "https://github.com/Buremoh/tacos.git",
     },
     {
       name: "Gym Fit",

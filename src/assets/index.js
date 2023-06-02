@@ -31,6 +31,7 @@ import lawrence from "./lawrence.png";
 import daniel from "./daniel.png";
 import gym from "./gym.png";
 import tacos from "./tacos.png";
+import gericht from "./gericht.png";
 
 
 export {
@@ -66,4 +67,5 @@ export {
   daniel,
   gym,
   tacos,
+  gericht
 };
