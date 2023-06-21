@@ -26,6 +26,7 @@ import {
     daniel,
     gym,
     tacos,
+    cars,
     gericht,
   } from "../assets";
   
@@ -288,6 +289,28 @@ import {
       demo_link: "https://gym-king.netlify.app",
       image: gym,
       source_code_link: "https://github.com/Buremoh/gym-fit.git",
+    },
+    {
+      name: "Car Rental",
+      description:
+        "A Car rental service that allows customers to rent cars different car models at affordable rates.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "imaginstudio",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind css",
+          color: "pink-text-gradient",
+        },
+      ],
+      demo_link: "https://carrent07.vercel.app",
+      image: cars,
+      source_code_link: "https://github.com/Buremoh/cars_showcase.git",
     },
   ];
   
