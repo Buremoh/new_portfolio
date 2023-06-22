@@ -293,7 +293,7 @@ import {
     {
       name: "Carrent",
       description:
-        "A Car rental service that allows customers to rent cars different car models at affordable rates.",
+        "A Car rental service for renting different car models at affordable rates.",
       tags: [
         {
           name: "React",
