@@ -26,8 +26,8 @@ import {
     daniel,
     gym,
     tacos,
-    cars,
     gericht,
+    cars,
   } from "../assets";
   
   export const navLinks = [
@@ -291,7 +291,7 @@ import {
       source_code_link: "https://github.com/Buremoh/gym-fit.git",
     },
     {
-      name: "Car Rental",
+      name: "Carrent",
       description:
         "A Car rental service that allows customers to rent cars different car models at affordable rates.",
       tags: [
