@@ -33,6 +33,7 @@ import gym from "./gym.png";
 import tacos from "./tacos.png";
 import gericht from "./gericht.png";
 import cars from "./cars.png";
+import sharon from "./sharon.png";
 
 
 export {
@@ -70,4 +71,5 @@ export {
   tacos,
   gericht,
   cars,
+  sharon,
 };

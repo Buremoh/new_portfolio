@@ -28,6 +28,7 @@ import {
     tacos,
     gericht,
     cars,
+    sharon,
   } from "../assets";
   
   export const navLinks = [
@@ -311,6 +312,28 @@ import {
       demo_link: "https://carrent07.vercel.app",
       image: cars,
       source_code_link: "https://github.com/Buremoh/cars_showcase.git",
+    },
+    {
+      name: "Devport",
+      description:
+        "A Fullstack Developer portfolio that showcases the developer's skills, experience and services.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "swiper",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      demo_link: "https://devport07.netlify.app",
+      image: sharon,
+      source_code_link: "https://github.com/Buremoh/devport.git",
     },
   ];
   
