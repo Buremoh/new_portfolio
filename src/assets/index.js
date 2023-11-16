@@ -34,6 +34,7 @@ import tacos from "./tacos.png";
 import gericht from "./gericht.png";
 import cars from "./cars.png";
 import sharon from "./sharon.png";
+import fitbits from "./fitbits.png";
 
 
 export {
@@ -72,4 +73,5 @@ export {
   gericht,
   cars,
   sharon,
+  fitbits
 };

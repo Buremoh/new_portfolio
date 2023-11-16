@@ -29,6 +29,7 @@ import {
     gericht,
     cars,
     sharon,
+    fitbits
   } from "../assets";
   
   export const navLinks = [
@@ -334,6 +335,28 @@ import {
       demo_link: "https://devport07.netlify.app",
       image: sharon,
       source_code_link: "https://github.com/Buremoh/devport.git",
+    },
+    {
+      name: "Vawulence",
+      description:
+        "A Fitness website that empowers health journeys with personalized plans and expert guidance.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "swiper",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      demo_link: "https://fitbits07.netlify.app",
+      image: fitbits,
+      source_code_link: "https://github.com/Buremoh/fitbits.git",
     },
   ];
   
